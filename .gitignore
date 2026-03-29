@@ -1,0 +1,11 @@
+# editor
+/.vscode/
+
+# build outputs
+/.xmake/
+/build/
+/.cache/
+/compile_commands.json
+
+# temp
+*.tmp
